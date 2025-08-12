@@ -1,6 +1,6 @@
-# Project Data Science Salaries on US Marketplace
+# Data Science Salaries on US Marketplace
 
-**Project Data Science Salaries** is a comprehensive data analysis of data science job salaries in 2025, designed to explore and analyse data, with deep dive into salary trends and visualisation. 
+** Data Science Salaries** is a comprehensive data analysis of data science job salaries in 2025, designed to explore and analyse data, with deep dive into salary trends and visualisation. 
 
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
