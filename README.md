@@ -9,41 +9,41 @@
 * The Dataset containes 151445 entries with 11 columns including a period time from 2020 to 2025, covering salary, type of employment, experience levels, company size and geographical data.
 * Column Descriptions:
 
- * work_year: covers salaries from 2020 through 2025.
+     * work_year: covers salaries from 2020 through 2025.
 
- * experience_level: 
-  * EN: Entry-level / Junior
-  * MI: Mid-level / Intermediate
-  * SE: Senior-level
-  * EX: Executive / Director
+     * experience_level: 
+        * EN: Entry-level / Junior
+        * MI: Mid-level / Intermediate
+        * SE: Senior-level
+        * EX: Executive / Director
 
- * employment_type:
-  * FT: Full-time
-  * PT: Part-time
-  * CT: Contract
-  * FL: Freelance
+     * employment_type:
+        * FT: Full-time
+        * PT: Part-time
+        * CT: Contract
+        * FL: Freelance
 
- * job_title
+     * job_title
 
-  * salary: the employee's gross annual salary in the original reported currency, before taxes and deductions.
+     * salary: the employee's gross annual salary in the original reported currency, before taxes and deductions.
 
-  * salary_currency: the currency in which the salary was originally paid.
+        * salary_currency: the currency in which the salary was originally paid.
 
-  * salary_in_usd: the employee's salary converted into USD using 2025 exchange rates for standardized comparison.
+        * salary_in_usd: the employee's salary converted into USD using 2025 exchange rates for standardized comparison.
 
- * employee_residence: the country where the employee resides.
+     * employee_residence: the country where the employee resides.
 
- * remote_ratio: indicates the percentage of remote work:
-  * 0: No remote work (On-site)
-  * 50: Hybrid (partially remote)
-  * 100: Fully remote
+     * remote_ratio: indicates the percentage of remote work:
+        * 0: No remote work (On-site)
+        * 50: Hybrid (partially remote)
+        * 100: Fully remote
 
- * company_location
+     * company_location
 
- * company_size
-  * S: Small (1–50 employees)
-  * M: Medium (51–500 employees)
-  * L: Large (501+ employees)
+     * company_size
+        * S: Small (1–50 employees)
+        * M: Medium (51–500 employees)
+        * L: Large (501+ employees)
 
 
 ## Business Requirements
